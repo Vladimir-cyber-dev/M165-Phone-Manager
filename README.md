@@ -5,4 +5,6 @@ Enthält sache wie:
 - Auflistung von Händydaten und Kundendaten
 - Daten löschen
 - Daten aktualisieren
-<br> 
+> [!IMPORTANT]
+> Das Benutzen dieser Applikation wird die Datenbase (MongoDB)[https://www.mongodb.com/de-de] gebraucht.
+> Ohne dieser Datenbase, wird diese Applikation nicht funktionieren!
